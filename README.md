@@ -78,7 +78,7 @@ La carpeta [`documentacion/`](./documentacion) contiene los documentos de soport
 
 **Santiago Batista Delgado**
 Técnico en Sistemas Teleinformáticos (SENA).
-Estudiante de Ingeniería de Sistemas (UNIMINUTO), Tecnología en Análisis y Desarrollo de Software (SENA).
+Estudiante de Ingeniería de Sistemas (UNIMINUTO) y de la Tecnología en Análisis y Desarrollo de Software (SENA).
 
 Colombia 2025.
 ## Nota
